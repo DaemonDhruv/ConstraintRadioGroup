@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConstraintRadioGroup">
+        <!-- The id of the child radio button that should be checked by default
+             within this radio group. -->
+        <attr name="checkedButton" format="integer" />
+        <!--<attr name="radioButtonStyle" format="reference"/>
+        <attr name="android:checkedButton"/>-->
+    </declare-styleable>
+</resources>

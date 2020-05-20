@@ -1,0 +1,3 @@
+rootProject.name='ConstraintRadioGroup Demo'
+include ':app'
+include ':customviewgroup'
