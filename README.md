@@ -35,9 +35,10 @@ allprojects {
 
 ```gradle
 dependencies {
-        implementation 'com.github.DaemonDhruv:ConstraintRadioGroup:Tag'
+        implementation 'com.github.DaemonDhruv:ConstraintRadioGroup:0.1.0-alpha'
 }
 ```
+Or check [jitpack](https://jitpack.io/#DaemonDhruv/ConstraintRadioGroup/0.1.0-alpha) for versions...
 
 Usage
 --------------------------------
