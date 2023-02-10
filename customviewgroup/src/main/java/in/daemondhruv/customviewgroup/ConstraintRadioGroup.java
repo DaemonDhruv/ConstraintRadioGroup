@@ -63,7 +63,7 @@ public class ConstraintRadioGroup extends ConstraintLayout {
         /*saveAttributeDataForStyleable(context, R.styleable.ConstraintRadioGroup,
                 attrs, attributes, R.attr.radioButtonStyle, 0);*/
 
-        int value = attributes.getResourceId(R.styleable.ConstraintRadioGroup_checkedButton, View.NO_ID);
+        int value = attributes.getResourceId(R.styleable.ConstraintRadioGroup_checkedButtonValue, View.NO_ID);
         if (value != View.NO_ID) {
             mCheckedId = value;
             mInitialCheckedId = value;
